@@ -1,2 +1,3 @@
 # PRESENCE-
 It is a python program which is used to maintain attendance in college
+This project implements an Attendance Management System using Python to calculate and analyze student attendance across multiple subjects. Unlike simple attendance trackers that assume a fixed number of classes, this system dynamically calculates attendance based on the number of completed classes. It assigns grades based on attendance percentage, issues alerts if attendance falls below the threshold (50%), and provides recommendations such as the minimum number of classes a student must attend to improve their grade, and the number of leaves they can safely take afterward.
